@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="apksigtool">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/kaltura/libs/apksigtool.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

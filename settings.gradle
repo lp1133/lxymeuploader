@@ -1,0 +1,4 @@
+include ':castCompanionLibraryandroid'
+include ':kalturaClient'
+include ':playerSDK'
+include ':kaltura'

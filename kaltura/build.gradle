@@ -1,0 +1,37 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 17
+    buildToolsVersion "21.1.2"
+
+    defaultConfig {
+        applicationId "com.kaltura.activity"
+        minSdkVersion 10
+        targetSdkVersion 10
+    }
+    packagingOptions {
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':kalturaClient')
+    compile project(':playerSDK')
+    compile 'com.android.support:support-v4:18.0.0'
+    compile 'com.google.android.gms:play-services:+'
+    compile 'com.android.support:appcompat-v7:19.1.0'
+    compile 'com.android.support:mediarouter-v7:19.1.0'
+    compile files('libs/apksigtool.jar')
+    compile files('libs/commons-codec-1.4.jar')
+    compile files('libs/commons-httpclient-3.1.jar')
+    compile files('libs/simple-social-sharing-1.0.0.jar')
+    compile files('libs/universal-image-loader-1.8.5-with-sources.jar')
+    compile files('libs/WidevineDRM-Debug-5.0.0.12188.jar')
+}

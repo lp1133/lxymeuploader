@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/castCompanionLibraryandroid/castCompanionLibraryandroid.iml" filepath="$PROJECT_DIR$/castCompanionLibraryandroid/castCompanionLibraryandroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaltura/kaltura.iml" filepath="$PROJECT_DIR$/kaltura/kaltura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kalturaClient/kalturaClient.iml" filepath="$PROJECT_DIR$/kalturaClient/kalturaClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lxymeuploader.iml" filepath="$PROJECT_DIR$/lxymeuploader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playerSDK/playerSDK.iml" filepath="$PROJECT_DIR$/playerSDK/playerSDK.iml" />
+    </modules>
+  </component>
+</project>
+

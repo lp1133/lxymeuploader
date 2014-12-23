@@ -1,0 +1,17 @@
+C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\classes\debug
+C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-32ba34dab298de4414e6722eed172eb06971754c.jar
+C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\internal_impl-19.1.0-b21374619b992eba60a7ce6be77ae5475baa7edb.jar
+C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\classes-c451bf78b3814e43f1328bbe9cd7e1c2887847ad.jar
+C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\apksigtool-89ef8628ab58bfd1a512bb0b935167894a47f614.jar
+C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\commons-codec-1.4-4ce15e062373d6a49cd4d76f91884736e38beb99.jar
+C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\classes-f2277b326d881c90f5ca6eb3df217ffdba0cb5e2.jar
+C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\classes-d66cedbaa63fb89ea739b3cd80a9aa3b87055f86.jar
+C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\WidevineDRM-Debug-5.0.0.12188-419f6a20897b4413773e08159bc00da469e8aac2.jar
+C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-d56034338c10f0c4c6035badf6b4ab811c829017.jar
+C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\simple-social-sharing-1.0.0-e2c2686ae697f9d6a1a77df3d29e08d717ecc996.jar
+C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\commons-httpclient-3.1-cbff8ecd2aee5f5662cf8337a8e27d332251a47c.jar
+C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\classes-ce5e709c813ef9b88ae587f4025feab8f615fcca.jar
+C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.5-with-sources-61f299283e0382ffad34ef561ab360ace459f57e.jar
+C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\classes-06ed844225ecd1a42a894f96b1c318d4d3dfc3c8.jar
+C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\classes-a0d0456bebae5a73d7ef5ce4825ecb54f91df50e.jar
+C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\classes-0c65f121bdc579e2e98b6205049fe85602f0a6b7.jar

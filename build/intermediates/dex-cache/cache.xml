@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\libs\apksigtool.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7568fbb7bb855aecf7cce5142531daf15d985b0a">
+        <dex dex="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\apksigtool-89ef8628ab58bfd1a512bb0b935167894a47f614.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\classes-ce5e709c813ef9b88ae587f4025feab8f615fcca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\exploded-aar\lxymeuploader\kalturaClient\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0c3411958cb1ddf598872a1c23af774c8411564b">
+        <dex dex="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\classes-a0d0456bebae5a73d7ef5ce4825ecb54f91df50e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\libs\commons-httpclient-3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="964cd74171f427720480efdec40a7c7f6e58426a">
+        <dex dex="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\commons-httpclient-3.1-cbff8ecd2aee5f5662cf8337a8e27d332251a47c.jar" />
+    </item>
+    <item
+        jar="E:\Program Files\androidsdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-32ba34dab298de4414e6722eed172eb06971754c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\exploded-aar\lxymeuploader\castCompanionLibraryandroid\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="419d030becf114cba038782c9b4994511ad0063e">
+        <dex dex="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\classes-f2277b326d881c90f5ca6eb3df217ffdba0cb5e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\exploded-aar\lxymeuploader\playerSDK\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4822d55029457b6cdb4d2247b914c822b56f8150">
+        <dex dex="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\classes-c451bf78b3814e43f1328bbe9cd7e1c2887847ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\classes-06ed844225ecd1a42a894f96b1c318d4d3dfc3c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\classes-0c65f121bdc579e2e98b6205049fe85602f0a6b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\libs\WidevineDRM-Debug-5.0.0.12188.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f53e5c08d9e5d11a275a92611e11dfea246c23c5">
+        <dex dex="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\WidevineDRM-Debug-5.0.0.12188-419f6a20897b4413773e08159bc00da469e8aac2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\libs\commons-codec-1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4216af16d38465bbab0f3dff8efa14204f7a399a">
+        <dex dex="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\commons-codec-1.4-4ce15e062373d6a49cd4d76f91884736e38beb99.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c654eae911e6b937a56f14ba353baa95a82adb9c">
+        <dex dex="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\classes-d66cedbaa63fb89ea739b3cd80a9aa3b87055f86.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-d56034338c10f0c4c6035badf6b4ab811c829017.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\libs\simple-social-sharing-1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17b968f39d48e6b080e669dd227c9da7ed6e3bea">
+        <dex dex="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\simple-social-sharing-1.0.0-e2c2686ae697f9d6a1a77df3d29e08d717ecc996.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\libs\universal-image-loader-1.8.5-with-sources.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d49f41272ec598fcfb8f6a53954458f6c995d75a">
+        <dex dex="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.5-with-sources-61f299283e0382ffad34ef561ab360ace459f57e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\19.1.0\libs\internal_impl-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e898b3d4e2733017f23894a563ea4f5b3aca72bc">
+        <dex dex="C:\Users\Tom\Documents\GitHub\lxymeuploader\kaltura\build\intermediates\pre-dexed\debug\internal_impl-19.1.0-b21374619b992eba60a7ce6be77ae5475baa7edb.jar" />
+    </item>
+
+</items>
